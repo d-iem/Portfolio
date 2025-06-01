@@ -1,0 +1,78 @@
+.secondSection {
+    max-width: 80vw;
+    margin: auto;
+    height: 80vh;
+}
+
+section hr {
+    border: 0;
+    height: 1px;
+    background: #9c97f1;
+    margin: 40px 84px;
+}
+
+.secondSection h1 {
+    font-size: 1.5rem;
+}
+
+.secondSection .box {
+    background: white;
+    width: 1000px;
+    height: 2px;
+    margin: 40px 0;
+    display: flex;
+}
+
+.secondSection .vertical {
+    height: 100px;
+    width: 2px;
+    background-color: white;
+    margin: 0 100px;
+
+}
+
+.image-top {
+    width: 30px;
+    position: relative;
+    top: -30px;
+    left: -11px;
+}
+
+.vertical-title {
+    position: relative;
+    top: 75px;
+    width: 150px;
+}
+
+.vertical-desc {
+    position: relative;
+    top: 90px;
+    color: gray;
+    width: 150px;
+    font-size: 15px;
+}
+
+footer {
+    background-color: #141114;
+}
+
+.footer {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.text-rights{
+    color:gray;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer-second li{
+    padding: 5px;
+}
